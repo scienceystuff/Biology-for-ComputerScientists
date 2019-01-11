@@ -29,6 +29,8 @@ All of the following are true regarding the Fundamental Dogma of Biology:
 3) RNA can create DNA
 4) RNA creates proteins
 
+![](fundamental-dogma-biology.png)
+
 #### DNA
 
 DNA can be described as a string containing 4 characters: A,T,C,G which are abbreviations for the nucleotides Adenosine, Thymine, Cytosine, and Guanine
@@ -106,10 +108,16 @@ P = TTCCGGGGAATTATTCC # spliced RNA
 
 ## Glossary
 
-*cDNA:* complementary DNA ; DNA that has been created from RNA.  
-*DNA:* Deoxy Ribonucleic Acid
-*Fundamental Dogma of Biology:* DNA <-> RNA -> Protein
-*RNA:* Ribonucleic Acid ; created from DNA, and used to create proteins in response to internal stimuli, external stimuli, and functions in the cell.
-*Protein:* building blocks that the cell uses.  Created from RNA, and used to activate or deactivate functions that a cell can perform
-*transcription:* creating RNA from DNA
-*translation:* creating proteins from RNA
+**cDNA:** complementary DNA ; DNA that has been created from RNA.  
+
+**DNA:** Deoxy Ribonucleic Acid
+
+**Fundamental Dogma of Biology:** DNA <-> RNA -> Protein
+
+**RNA:** Ribonucleic Acid ; created from DNA, and used to create proteins in response to internal stimuli, external stimuli, and functions in the cell.
+
+**Protein:** building blocks that the cell uses.  Created from RNA, and used to activate or deactivate functions that a cell can perform
+
+**transcription:** creating RNA from DNA
+
+**translation:** creating proteins from RNA
