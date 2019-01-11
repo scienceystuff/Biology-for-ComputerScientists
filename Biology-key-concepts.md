@@ -94,10 +94,15 @@ The ordering of the substringsis multidirectional, and may overlap with other su
 
 For example:
 S    = AATTCCGGAACCTTAAGGAA
+
 S_rc = TTAAGGCCTTGGAATTCCTT # reverse-complement of DNA string S
+
 s1 = TTCCGG
+
 s2 = GGAATT
+
 s3 = ATTCC
+
 P = TTCCGGGGAATTATTCC # spliced RNA
 
 #### Selected Cell Functions
