@@ -48,7 +48,9 @@ If the RNA was from a eukaryote, then software that accounts for splicing **must
 ### Glossary
 
 **read:** A single copy of the fragmented DNA string D.  In the case of PacBio, it is a substring S of the original, unfragmented DNA string D.
+
 **library:** The fragmented DNA string F that will be determined as part of the sequencing process to define the unknown, original, unfragmented DNA string D
+
 **paired end reads:** Given a DNA string S, two substrings d1 and d3 are created, with an unsequenced gap d2 in the middle called the insert. All paired end reads are combined to re-create the original and un-fragmented DNA string D, and the pairs of reads are used to validate both the consensus string, and the insert strings that were not sequenced.
         
         Example:
