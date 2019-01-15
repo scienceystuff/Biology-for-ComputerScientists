@@ -6,7 +6,7 @@
 
 Organisms can be broadly defined into two types: Eukaryote and Prokaryote.  Eukaryote organisms are organisms that use multiple discrete steps when creating RNA and when creating proteins (see Splicing).  Prokaryote organisms are organisms that have only 1 step when creating RNA and protein.
 Examples of Eukaryotes are humans, mice, rabbits, and algae.
-Examples of Prokaryotes are **E. coli* bacteria and Streptococcus bacteria.
+Examples of Prokaryotes are *E. coli* bacteria and Streptococcus bacteria.
 
 Viruses are neither prokaryotes nor eukaryotes, but **usually** behave like the organism that they infect.  For example, the Human Immunodeficiency Virus (HIV) creates RNA in the same way as Eukaryotes.
 
@@ -88,7 +88,7 @@ cDNA is double-stranded.
 Protein in the cell can be described as a higher-level structural unit that is created from RNA, and will activate or deactivate functions in the cell.  It is created by the cell in response to any number of internal or external stimuli, including normal cell functions.
 
 #### Splicing
-Eukaryotes have more complexity than prokaryotes, and therefore have an additional process that takes place when RNA is transcribed (created from DNA), and when protein is translated (created from RNA).
+Eukaryotes have more complexity than prokaryotes, and therefore have an additional process called splicing that takes place when RNA is transcribed (created from DNA), and when protein is translated (created from RNA).
 Given a string S, comprised of substrings s1, s2, ..., sN, a larger string P will be comprised of at least 1 substring from s1, s2, ..., sN.
 The ordering of the substringsis multidirectional, and may overlap with other substrings.
 
@@ -110,6 +110,18 @@ P = TTCCGGGGAATTATTCC # spliced RNA
 * enzymes: Enzymes are proteins that carry out specific tasks in the cell. All enzymes have the suffix 'ase' in their name, such as reverse transcriptase, which converts RNA to cDNA.  
 
 * apoptosis: A function in a cell that can be initiated internally or externally, that causes a cell to stop functioning and die in an orderly and defined manner.
+
+#### Review
+
+1. Can RNA be used to create DNA?
+
+2. Is DNA double-stranded or single-stranded?
+
+3. Do prokaryotes use splicing when transcribing RNA?
+
+
+Answers are listed [here](https://github.com/scienceystuff/Biology-for-ComputerScientists/blob/master/data_and_images/review_question_answers-BiologyKeyConcepts.md)
+
 
 ## Glossary
 
