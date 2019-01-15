@@ -27,7 +27,7 @@ There are numerous potentially harmful (called pathogenic) microorganisms that c
 
 The immune system can be described hierarchically as follows:
 
-![](ImmuneSystem_overview.png)
+![](data_and_images/ImmuneSystem_overview.png)
 
 Immune System
 * Innate -> activates Adaptive, surveils for foreign microorganisms
