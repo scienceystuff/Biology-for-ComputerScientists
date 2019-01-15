@@ -29,7 +29,7 @@ All of the following are true regarding the Fundamental Dogma of Biology:
 3) RNA can create DNA
 4) RNA creates proteins
 
-![](fundamental-dogma-biology.png)
+![](data_and_images/fundamental-dogma-biology.png)
 
 #### DNA
 
