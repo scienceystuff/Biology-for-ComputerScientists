@@ -32,7 +32,7 @@ DNASeq determines the string of characters that comprise the total DNA of an org
     * If no predetermined DNA reference sequence exist, then a [*de novo*](https://www.nature.com/articles/nmeth.1935) assembler is used instead.  
     
     
-### RNASeq
+### RNA Sequencing (abbreviated RNASeq)
 RNASeq determines the string of characters that comprise the extracted RNA from an organism.  This may be the entire RNA (the transcriptome), or a specific set of RNA.  If a subset of RNA (or DNA) is repeatedly sequenced to increase the overall amount, this is called enrichment.  
 
 Most of the wet lab steps are the same for DNASeq and RNASeq, or their differences are unimportant in the context of this README.  There are several differences for the *in-silico* steps, depending on if a reference string is available for the organism, and if the RNA was from a prokaryote or eukaryote organism.
