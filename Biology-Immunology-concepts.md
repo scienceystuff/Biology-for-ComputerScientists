@@ -37,6 +37,16 @@ Immune System
 To attack an extracellular microorganism, the B-cells of the immune system are trained to recognize a foreign antigen sequence (string), and then create an antibody that will bind to any sequence string matching it. To attack an intracellular microorganism, the immune system will train CD8+ T-cells to look for a specific change in the sequence of the HLA-I (MHC-I) protein, and if a cell shows this change, then the CD8+ T-cell will take control of that cell and trigger apoptosis.  Apoptosis is the ordered self-destruct function that a cell can undergo when it has been infected by an intracellular microorganism, if it is behaving incorrectly, or if it has reached a certain age.
 
 
+### Review Questions
+
+1. Do all cells of the Innate Immune System have the HLA-I protein?
+
+2. Are viruses extracellular pathogens?
+
+3. Which microorganism is a eukaryote: Dengue Virus, *S. pneumonia* bacteria, or the fungi *C. albicans*?
+
+Answers to the review questions are [here](https://github.com/scienceystuff/Biology-for-ComputerScientists/blob/master/data_and_images/review_questions_answers-Biology-Immunology-concepts.md)
+
 ### Glossary
 
 apoptosis: the function that triggers a controlled and ordered self-destruct of a cell
@@ -49,4 +59,8 @@ CD8+ T-cell: a cell within the Adaptive Immune System that searches for host cel
 
 Dendritic cell: a professional antigen-presenting cell that is part of the Innate Immune System. It also removes cellular debris.
 
+Human Leukocyte Antigen: abbreviated HLA.  The MHC in humans is called the HLA.  See Major Histocompatibility Complex.
+
 Macrophage: a professional antigen-presenting cell that is part of the Innate Immune System.  It also removes cellular debris
+
+Major Histocompatibility Complex: abbreviated MHC.  There are two MHC proteins, MHC-I and MHC-II.  With few exceptions, all host cells have the MHC-I protein.  MHC-I is used to identify cells that are from the host organism.  MHC-II is used by Immune Cells to target and identify foreign microorganisms.
