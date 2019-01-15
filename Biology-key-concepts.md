@@ -125,15 +125,21 @@ Answers are listed [here](https://github.com/scienceystuff/Biology-for-ComputerS
 
 ## Glossary
 
+**amino acid:** A single character from a protein sequence.  A list of amino acids is [here](https://www.sigmaaldrich.com/life-science/metabolomics/learning-center/amino-acid-reference-chart.html).  Note the 3-character sets of nucleotides that are used to create amino acids (example: 'AAA' creates Alanine) are non-unique (example: 'GUA', 'GUU', 'GUC', and 'GUG' all create Valine).  See [here](http://www.science.oregonstate.edu/genbio/otherresources/aminoacidtranslation.htm)
+
 **cDNA:** complementary DNA ; DNA that has been created from RNA.  
 
 **DNA:** Deoxy Ribonucleic Acid
 
 **Fundamental Dogma of Biology:** DNA <-> RNA -> Protein
 
-**RNA:** Ribonucleic Acid ; created from DNA, and used to create proteins in response to internal stimuli, external stimuli, and functions in the cell.
+**nucleotide:** a single character in the DNA sequence string; can be 'A', 'T', 'C', 'G'
 
 **Protein:** building blocks that the cell uses.  Created from RNA, and used to activate or deactivate functions that a cell can perform
+
+**RNA:** Ribonucleic Acid ; created from DNA, and used to create proteins in response to internal stimuli, external stimuli, and functions in the cell.
+
+
 
 **transcription:** creating RNA from DNA
 
