@@ -80,9 +80,10 @@ RNA is *usually* single-stranded, but it may be double-stranded.
 Also note that the creation of RNA from DNA is defined as transcription.
 
 #### cDNA
-cDNA, short for complementary DNA, is DNA that has been created from RNA using an cellular function called a reverse transcriptase enzyme.  Although it was created from RNA, cDNA will follow the structure for DNA, in that it will always have A,T,C,G 
+cDNA, short for complementary DNA, is double-stranded DNA that has been created from RNA using an cellular function called a reverse transcriptase enzyme.  Although it was created from RNA, cDNA will follow the structure for DNA, in that it will always have A,T,C,G 
 
-cDNA is double-stranded.
+Within the context of Bioinformatics, cDNA is the DNA version of RNA, containing **only** exons, and not introns (see 'Splicing' below).
+
 
 #### protein
 Protein in the cell can be described as a higher-level structural unit that is created from RNA, and will activate or deactivate functions in the cell.  It is created by the cell in response to any number of internal or external stimuli, including normal cell functions.
