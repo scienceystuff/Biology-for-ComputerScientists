@@ -53,13 +53,20 @@ C <-> G
 
 Most bioinformatics files only report one strand, since the complement string can easily be defined by:
 
-        # bash
-        printf($D) | tr 'ACTG' 'TGAC'
+        for n in nucleotides:
+            replace 'A' -> 'T'
+            replace 'C' -> 'G'
+            replace 'G' -> 'C'
+            replace 'T' -> 'A'
 
 And the reverse-complement can be defined by:
 
-        # bash
-        printf($D) | rev | tr 'ACTG' 'TGAC'
+        reversed_nucleotides = reverse(nucleotides)
+        for n in reversed_nucleotides:
+            replace 'A' -> 'T'
+            replace 'C' -> 'G'
+            replace 'G' -> 'C'
+            replace 'T' -> 'A'
 
 
 #### RNA
