@@ -68,6 +68,7 @@ And the reverse-complement can be defined by:
             replace 'G' -> 'C'
             replace 'T' -> 'A'
 
+The DNA in a eukaryote will be contained within chromosomes. Humans have 46 chromosomes, but other eukaryotes may have more or less chromosomes.  The chromosome identifier and position are frequently used for identification purposes. For example, the human gene BRCA2 [is on Chromosom 13](https://useast.ensembl.org/Homo_sapiens/Gene/Summary?db=core;g=ENSG00000139618;r=13:32315086-32400266), starts starting at position 32315086 of that chromosome, and ends at position 32400266 of that chromosome. It is possible for a gene to span multiple chromosomes, but this will be specifically noted if it occurs.
 
 #### RNA
 RNA can be described as a string of 4 characters: A,U,C,G which are abbreviations for the nucleotides Adenosine, Uracil, Cytosine, and Guanine.
