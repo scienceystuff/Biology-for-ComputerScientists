@@ -35,16 +35,16 @@ Installation instructions can be found on the [IGV website](https://software.bro
 * Steps:
   * Navigate to the [IGV Website](https://software.broadinstitute.org/software/igv/download) and click to download the appropriate version of IGV.
   * Double-click the downloaded file, and run the installer.
-![]()
+![](https://github.com/scienceystuff/Biology-for-ComputerScientists/blob/Latest/data_and_images/igv_screenshot1.png)
 
 ## IGV Interface Overview
 To begin, note that IGV can be a bit buggy, irrespective of your actions. Save your work frequently, and if you run into a situation where commands do not seem to work, exit IGV and restart it.
 
 IGV typically opens to a blank session. From here, you can continue working on this new session, or open a saved session. These options are available under the 'File' menu.
-![igv_screenshot2]()
+![](https://github.com/scienceystuff/Biology-for-ComputerScientists/blob/Latest/data_and_images/igv_screenshot2.png)
 
 The following image shows IGV when a VCF file, and the hg38 human genome have been loaded
-![igv_screenshot3_edited]()
+![](https://github.com/scienceystuff/Biology-for-ComputerScientists/blob/Latest/data_and_images/igv_screenshot3.png)
 
 
 * View: The window where tracks display data.
